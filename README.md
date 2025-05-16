@@ -24,7 +24,7 @@ UniEats is designed with a **three-tier architecture**:
 ### 2. **Cafeteria Staff System**
 - Update menu items (prices, descriptions, images)
 - View incoming orders with details
-- Update order statuses: `Pending → Cooking → Out for Delivery`
+- Update order statuses: `Pending → Cooking → Out for Delivery`→ Delivered
 
 ### 3. **Delivery Personnel System**
 - View and accept orders that are marked "Out for Delivery"
@@ -136,14 +136,24 @@ Contributions and forks are welcome!
 ---
 
 ## 📸 Screenshots & Demos (Optional)
-
-> - Login and OTP process
 ![image](https://github.com/user-attachments/assets/d7f2f097-b716-4cbc-95ba-df59ab002df5)
-
-> - Cart & meal customization
-> - Admin dashboard
-> - Order tracking by role
-
+![image](https://github.com/user-attachments/assets/9f502196-ae69-44f5-af60-3f6000570627)
+![image](https://github.com/user-attachments/assets/97916d5c-6dd2-48ef-b7f4-14bd8ec3fc52)
+![image](https://github.com/user-attachments/assets/0c95ac39-6715-43b2-8d58-56170640a338)
+![image](https://github.com/user-attachments/assets/88182a42-add3-413f-812f-92722f8eb656)
+![image](https://github.com/user-attachments/assets/11593b02-9e84-4dac-9334-434061c14456)
+![image](https://github.com/user-attachments/assets/8eda4f5d-6789-4c67-88ba-35e7f984bf63)
+![image](https://github.com/user-attachments/assets/05984f4d-022d-4eef-8e20-ba25ccfec8df)
+![image](https://github.com/user-attachments/assets/db2a1e45-ba08-4545-b015-1f8285b37777)
+![image](https://github.com/user-attachments/assets/b21e52c2-40be-417b-910f-5a4e153d6883)
+![image](https://github.com/user-attachments/assets/6dc96e21-c55b-454d-846c-103f62990f5a)
+![image](https://github.com/user-attachments/assets/9c9e268b-13bb-4376-ac98-479a0ff3f16d)
+![image](https://github.com/user-attachments/assets/bec3469a-4e8e-436d-b134-61ebcf50e7a9)
+![image](https://github.com/user-attachments/assets/d8e8bd07-e026-4ee4-9d04-3cbf380fdec6)
+![image](https://github.com/user-attachments/assets/daf3a15d-589d-43cd-b44e-1e2f53b4773d)
+![image](https://github.com/user-attachments/assets/4d9a1b45-2143-4c9b-9d3f-3e9d09b85c1e)
+![image](https://github.com/user-attachments/assets/ff1a7a3e-3db5-4f6a-b4f0-f9ef92941635)
+![image](https://github.com/user-attachments/assets/0a0ef180-eef9-4748-800d-bcedae0e59e1)
 ---
 
 ## 📎 Resources
